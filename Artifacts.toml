@@ -1,0 +1,113 @@
+[[PORTA]]
+arch = "i686"
+git-tree-sha1 = "eca677771d9914c25a89c7c3f20662ec0285467e"
+libc = "musl"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "07b09964255631c44b743892ac29287530634a6acda67c3703cab384d7ecdfd9"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.i686-linux-musl.tar.gz"
+[[PORTA]]
+arch = "aarch64"
+git-tree-sha1 = "535a110b06ecf94988a666c763c2b809c16d3a86"
+libc = "musl"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "a674fcf9003087869e00f448b5a28a1de570343ce5e4d9922d23ebe7985dbbae"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.aarch64-linux-musl.tar.gz"
+[[PORTA]]
+arch = "i686"
+git-tree-sha1 = "37032999b915052c1d445b3885a27e1b2234785a"
+os = "windows"
+
+    [[PORTA.download]]
+    sha256 = "2f512cd091698faa2b7c2a95c51507cabdac6a498194cced41d5b1279337644e"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.i686-w64-mingw32.tar.gz"
+[[PORTA]]
+arch = "x86_64"
+git-tree-sha1 = "8f9308cf97660b13fdd0dd814c55a790e70cbc97"
+os = "windows"
+
+    [[PORTA.download]]
+    sha256 = "bb6de8602a0573563c0e8f3d015f29e05394384ccd5946e4b2ffb32eaa6671bf"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.x86_64-w64-mingw32.tar.gz"
+[[PORTA]]
+arch = "armv7l"
+git-tree-sha1 = "7723d6401c58ad89275d848712f0e3d6af8f8fde"
+libc = "glibc"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "9266655df61996f79ecbf255f27e22eae1be6cf1605d4d3e8924d3702ef5cded"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[PORTA]]
+arch = "armv7l"
+git-tree-sha1 = "a94e411bd21c24ad676cb7b4c8fca44be638ea7d"
+libc = "musl"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "fb808bde7f2f07154f68b713a59374d51f8e0f254196e436c884a7a04fe12ac7"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.armv7l-linux-musleabihf.tar.gz"
+[[PORTA]]
+arch = "i686"
+git-tree-sha1 = "3451994be2c6338129782ae68d69e096a9c44804"
+libc = "glibc"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "7b40c93123e81ac7aa6b2eafce833a3266a6717b51cf1e39c2125fff460f4766"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.i686-linux-gnu.tar.gz"
+[[PORTA]]
+arch = "x86_64"
+git-tree-sha1 = "b0627bab322e166a7ea3c9aa777f00551e7c4fdd"
+libc = "glibc"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "70ee687a31b8560783afd04722e0d0dc2e862f8693079599232ceb70b6080ec6"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.x86_64-linux-gnu.tar.gz"
+[[PORTA]]
+arch = "powerpc64le"
+git-tree-sha1 = "1ef04498c7503a0b67961bfc8fa808b43c88baf0"
+libc = "glibc"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "2d3f53eae2329d2452e6fb692350e17160cc1f216ef00ae4f9b79a055d85a423"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.powerpc64le-linux-gnu.tar.gz"
+[[PORTA]]
+arch = "x86_64"
+git-tree-sha1 = "a71254260596c8331e7de7381aa270ca4d1a96f6"
+os = "macos"
+
+    [[PORTA.download]]
+    sha256 = "2f96bfd3003d08e6040f264cc1967270ae88eb3da49c8a44ebd6f5518d4f6d8d"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.x86_64-apple-darwin14.tar.gz"
+[[PORTA]]
+arch = "aarch64"
+git-tree-sha1 = "627afb242cf301f07bdf58547039ed07c99ca0b7"
+libc = "glibc"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "17f69644c5d6cc558320044cf8ff3169ae9a88fc122e78232eaa845f8b244c50"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.aarch64-linux-gnu.tar.gz"
+[[PORTA]]
+arch = "x86_64"
+git-tree-sha1 = "616ce3d288072d49c2ed892c33d4cb3455085a0d"
+os = "freebsd"
+
+    [[PORTA.download]]
+    sha256 = "6b33bfcaae3bd870d01a57a796fd2a0c710548a4202dc9f94e3561f1837e2b0c"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[PORTA]]
+arch = "x86_64"
+git-tree-sha1 = "9d29b048627a4342787fa1f3dfcc78f7f1b154a3"
+libc = "musl"
+os = "linux"
+
+    [[PORTA.download]]
+    sha256 = "fc5f5f09b4197e66134d0049ba11e4f90a02f913d1ed6b4cea584bb56c0af70e"
+    url = "https://github.com/JuliaBinaryWrappers/PORTA_jll.jl/releases/download/PORTA-v1.4.1+0/PORTA.v1.4.1.x86_64-linux-musl.tar.gz"
